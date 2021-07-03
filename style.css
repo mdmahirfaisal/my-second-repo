@@ -1,10 +1,10 @@
 .lion{
     width: 48%;
-    height: 100px;
+    height: auto;
     float: left;
 }
 .mosjid{
     width: 48%;
-    height: 100px;
+    height: auto;
     float: right;
 }
