@@ -8,3 +8,6 @@
     height: auto;
     float: right;
 }
+img{
+height: max-content;
+}
